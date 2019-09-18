@@ -47,5 +47,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i("tag", "what");
 
 
+        Log.i("tag", "what");
     }
 }
