@@ -42,7 +42,9 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, boxerA.throwCross(),Toast.LENGTH_SHORT).show();
 
                 }
-        });         
+        });
+
+        Log.i("tag", "what");
 
 
     }
